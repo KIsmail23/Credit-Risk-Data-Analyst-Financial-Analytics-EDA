@@ -46,3 +46,7 @@ Through statistical analysis and visual exploration, this project identifies key
 📉 Scatter Plots — Age vs Income | Age vs Interest Rate | Income vs Loan Amount
 📦 Box Plot — Loan percent income by loan approval status
 📑 Cross Tables — Loan Intent vs Loan Status | Home Ownership vs Risk & Loan Grade
+
+
+<Figure size 640x480 with 1 Axes><img width="571" height="453" alt="image" src="https://github.com/user-attachments/assets/a0a84e85-7ff5-4b21-b7fc-6b93dd7ca965" />
+
